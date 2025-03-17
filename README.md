@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -455,6 +454,3 @@
       document.getElementById("myLinks").style.display = "none";
     }
   </script>
-  
-  </body>
-  </html>
